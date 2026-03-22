@@ -57,7 +57,7 @@ I built this portfolio to showcase my projects and technical skills.
 ---
 
 ## 📧 Contact
-- Email: akasharalikatti04@gmail.com@gmail.com
+- Email: akasharalikatti04@gmail.com
 - Phone: +91-9901531209
 - LinkedIn: https://www.linkedin.com/in/akasharalikatti0717/
 - GitHub: https://github.com/akashak0717
